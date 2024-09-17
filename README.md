@@ -1,2 +1,2 @@
-# c-assignment
-here's the code of  assignment of Bsc.Csit 2nd sem 
+# c++ assignment
+here's the code of  assignment OOP (C++) of Bsc.Csit 2nd sem 
