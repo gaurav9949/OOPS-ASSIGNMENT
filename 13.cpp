@@ -15,6 +15,7 @@ class Interest{
 public:
 float p;
 float t;
+
 float r;
 float i=0;
 void getdata(){
@@ -29,6 +30,8 @@ void display(){
 cout<<"INTEREST  :"<<i<<endl;
 }
 };
+// main function
+
 int main(){
 Interest i1;
 i1.getdata();
